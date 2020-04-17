@@ -1,0 +1,4 @@
+Moi khi thuc hien 1 phep bien doi xong... thi phai clear 1 lan. neu khong clear ma thuc hien phep khac co the gay loi, vi con nhieu exception em van chua fix duoc
+Vi ham nhap tren cua so Graphics van chua toi uu, nen nhap can phai chinh xac, va nhap toi da 3 don vi.sau khi nhap thi enter
+Chuong trinh chi chu trong vao 2 vat, nen cac cong cu ve duong thang, duong tron, eclip, da giac van chua toi uu.
+.....................mong co thong cam huhu!!!!--------------

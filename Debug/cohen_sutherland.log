@@ -1,0 +1,50 @@
+﻿Build started 13/04/2019 10:55:42 AM.
+     1>Project "D:\tai_lieu\KyThuatDoHoa\cohen_sutherland\cohen_sutherland.vcxproj" on node 2 (Rebuild target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (cohen_sutherland.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W0 /WX- /sdl- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt background.cpp BD2D.cpp circleMidPoint.cpp coHen_sutherland.cpp conTrol.cpp drawMultiple.cpp eclipMidPoint.cpp HinhHop.cpp HinhTru.cpp lineMidPoint.cpp main.cpp vat1.cpp vat2.cpp
+         vat2.cpp
+         vat1.cpp
+         main.cpp
+         lineMidPoint.cpp
+         HinhTru.cpp
+         HinhHop.cpp
+         eclipMidPoint.cpp
+         drawMultiple.cpp
+         conTrol.cpp
+         coHen_sutherland.cpp
+         circleMidPoint.cpp
+         BD2D.cpp
+         background.cpp
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /l"0x0409" /nologo /fo"Debug\Digital_Graphics.res" Digital_Graphics.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\tai_lieu\KyThuatDoHoa\cohen_sutherland\Debug\Digital_Graphics.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"D:\tai_lieu\KyThuatDoHoa\cohen_sutherland\Debug\Digital_Graphics.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\tai_lieu\KyThuatDoHoa\cohen_sutherland\Debug\Digital_Graphics.lib" /MACHINE:X86 Debug\Digital_Graphics.res
+         Debug\background.obj
+         Debug\BD2D.obj
+         Debug\circleMidPoint.obj
+         Debug\coHen_sutherland.obj
+         Debug\conTrol.obj
+         Debug\drawMultiple.obj
+         Debug\eclipMidPoint.obj
+         Debug\HinhHop.obj
+         Debug\HinhTru.obj
+         Debug\lineMidPoint.obj
+         Debug\main.obj
+         Debug\vat1.obj
+         Debug\vat2.obj
+     1>graphics.lib(dibutil.obj) : warning LNK4099: PDB 'bgi.pdb' was not found with 'graphics.lib(dibutil.obj)' or at 'D:\tai_lieu\KyThuatDoHoa\cohen_sutherland\Debug\bgi.pdb'; linking object as if no debug info
+     1>graphics.lib(drawing.obj) : warning LNK4099: PDB 'bgi.pdb' was not found with 'graphics.lib(drawing.obj)' or at 'D:\tai_lieu\KyThuatDoHoa\cohen_sutherland\Debug\bgi.pdb'; linking object as if no debug info
+     1>graphics.lib(file.obj) : warning LNK4099: PDB 'bgi.pdb' was not found with 'graphics.lib(file.obj)' or at 'D:\tai_lieu\KyThuatDoHoa\cohen_sutherland\Debug\bgi.pdb'; linking object as if no debug info
+     1>graphics.lib(misc.obj) : warning LNK4099: PDB 'bgi.pdb' was not found with 'graphics.lib(misc.obj)' or at 'D:\tai_lieu\KyThuatDoHoa\cohen_sutherland\Debug\bgi.pdb'; linking object as if no debug info
+     1>graphics.lib(mouse.obj) : warning LNK4099: PDB 'bgi.pdb' was not found with 'graphics.lib(mouse.obj)' or at 'D:\tai_lieu\KyThuatDoHoa\cohen_sutherland\Debug\bgi.pdb'; linking object as if no debug info
+     1>graphics.lib(text.obj) : warning LNK4099: PDB 'bgi.pdb' was not found with 'graphics.lib(text.obj)' or at 'D:\tai_lieu\KyThuatDoHoa\cohen_sutherland\Debug\bgi.pdb'; linking object as if no debug info
+     1>graphics.lib(winbgi.obj) : warning LNK4099: PDB 'bgi.pdb' was not found with 'graphics.lib(winbgi.obj)' or at 'D:\tai_lieu\KyThuatDoHoa\cohen_sutherland\Debug\bgi.pdb'; linking object as if no debug info
+     1>graphics.lib(winthread.obj) : warning LNK4099: PDB 'bgi.pdb' was not found with 'graphics.lib(winthread.obj)' or at 'D:\tai_lieu\KyThuatDoHoa\cohen_sutherland\Debug\bgi.pdb'; linking object as if no debug info
+         cohen_sutherland.vcxproj -> D:\tai_lieu\KyThuatDoHoa\cohen_sutherland\Debug\Digital_Graphics.exe
+     1>Done Building Project "D:\tai_lieu\KyThuatDoHoa\cohen_sutherland\cohen_sutherland.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:15.10

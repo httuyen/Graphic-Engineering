@@ -1,0 +1,171 @@
+﻿  background.cpp
+  BD2D.cpp
+BD2D.cpp(13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+BD2D.cpp(14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+BD2D.cpp(22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+BD2D.cpp(23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+BD2D.cpp(51): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(52): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(53): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(54): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(55): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(56): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(58): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(59): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(60): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(61): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(62): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(63): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(65): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(66): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(67): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(68): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(69): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(70): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(71): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(72): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(73): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(76): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(77): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(78): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(79): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(80): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(81): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(83): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(84): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(85): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(86): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(87): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(88): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(90): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(91): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(92): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(93): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(94): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(95): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(96): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(97): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(98): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(101): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(102): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(103): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(104): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(105): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(106): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(108): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(109): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(110): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(111): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(112): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(113): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(115): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(116): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(117): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(118): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(119): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(120): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(121): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(122): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(123): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(128): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(129): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(130): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(131): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(132): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(133): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(134): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(135): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(136): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(138): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(139): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(140): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(141): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(142): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(143): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(145): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(146): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(147): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(148): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(149): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(150): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(151): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(152): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(153): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+BD2D.cpp(154): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  circleMidPoint.cpp
+circleMidPoint.cpp(73): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+circleMidPoint.cpp(34): warning C4101: 'newx': unreferenced local variable
+circleMidPoint.cpp(34): warning C4101: 'newy': unreferenced local variable
+  coHen_sutherland.cpp
+  conTrol.cpp
+conTrol.cpp(50): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  drawMultiple.cpp
+e:\tai_lieu\kythuatdohoa\cohen_sutherland\drawMultiple.h(7): warning C4091: 'typedef ': ignored on left of 'Dinh' when no variable is declared
+drawMultiple.cpp(14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+drawMultiple.cpp(15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+drawMultiple.cpp(16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+drawMultiple.cpp(20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  eclipMidPoint.cpp
+  HinhHop.cpp
+e:\tai_lieu\kythuatdohoa\cohen_sutherland\HinhHop.h(6): warning C4091: 'typedef ': ignored on left of 'TD' when no variable is declared
+HinhHop.cpp(32): warning C4551: function call missing argument list
+  HinhTru.cpp
+e:\tai_lieu\kythuatdohoa\cohen_sutherland\HinhTru.h(8): warning C4091: 'typedef ': ignored on left of 'Td' when no variable is declared
+HinhTru.cpp(17): warning C4551: function call missing argument list
+  lineMidPoint.cpp
+lineMidPoint.cpp(54): warning C4101: 'newyy': unreferenced local variable
+lineMidPoint.cpp(54): warning C4101: 'newxx': unreferenced local variable
+  main.cpp
+e:\tai_lieu\kythuatdohoa\cohen_sutherland\drawMultiple.h(7): warning C4091: 'typedef ': ignored on left of 'Dinh' when no variable is declared
+e:\tai_lieu\kythuatdohoa\cohen_sutherland\HinhHop.h(6): warning C4091: 'typedef ': ignored on left of 'TD' when no variable is declared
+e:\tai_lieu\kythuatdohoa\cohen_sutherland\HinhTru.h(8): warning C4091: 'typedef ': ignored on left of 'Td' when no variable is declared
+  vat1.cpp
+e:\tai_lieu\kythuatdohoa\cohen_sutherland\drawMultiple.h(7): warning C4091: 'typedef ': ignored on left of 'Dinh' when no variable is declared
+vat1.cpp(30): warning C4551: function call missing argument list
+vat1.cpp(75): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+vat1.cpp(104): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+vat1.cpp(278): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+vat1.cpp(14): warning C4101: 'newy2': unreferenced local variable
+vat1.cpp(14): warning C4101: 'newx1': unreferenced local variable
+vat1.cpp(14): warning C4101: 'newx2': unreferenced local variable
+vat1.cpp(14): warning C4101: 'newy1': unreferenced local variable
+  vat2.cpp
+e:\tai_lieu\kythuatdohoa\cohen_sutherland\drawMultiple.h(7): warning C4091: 'typedef ': ignored on left of 'Dinh' when no variable is declared
+vat2.cpp(22): warning C4551: function call missing argument list
+vat2.cpp(67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+vat2.cpp(68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+vat2.cpp(69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+vat2.cpp(70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+vat2.cpp(71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+vat2.cpp(72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+vat2.cpp(73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+vat2.cpp(74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+vat2.cpp(75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+vat2.cpp(76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+vat2.cpp(77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+vat2.cpp(78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+vat2.cpp(97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+vat2.cpp(98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+vat2.cpp(99): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+vat2.cpp(100): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+vat2.cpp(101): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+vat2.cpp(102): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+vat2.cpp(103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+vat2.cpp(104): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+vat2.cpp(105): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+vat2.cpp(106): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+vat2.cpp(107): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+vat2.cpp(108): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+vat2.cpp(262): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+vat2.cpp(263): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+vat2.cpp(264): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+vat2.cpp(265): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+vat2.cpp(266): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+vat2.cpp(267): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+vat2.cpp(268): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+vat2.cpp(269): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+vat2.cpp(270): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+vat2.cpp(271): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+vat2.cpp(272): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+vat2.cpp(273): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+graphics.lib(winbgi.obj) : fatal error LNK1112: module machine type 'X86' conflicts with target machine type 'x64'
